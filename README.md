@@ -11,11 +11,13 @@ This repository contains a requirements and design document for a meeting schedu
 - Goal model outlining the high-level goals the software should achieve
 
 
+ ## Tech Stack
+- Intended implementation language: Java
 
-## Tech Stack
-- The meeting scheduler software would be implemented in Java.
 
-## What I implemented
-- Atomic requirements
-- Risk model
-- UML Class Diagram 
+
+## What I Implemented
+- Defined atomic software requirements for the meeting scheduler
+- Created a risk model to analyze user risks and mitigations
+- Designed a UML Class Diagram using Java-like syntax to model core entities and interactions
+
